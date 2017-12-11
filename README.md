@@ -7,3 +7,4 @@ The aim of this software is to suggest a list of news to 10 Twitter user based o
 The software is based on Lucene.
 
 
+![alt text](https://preview.ibb.co/gEEFPb/Screenshot_from_2017_12_11_22_43_14.png)
